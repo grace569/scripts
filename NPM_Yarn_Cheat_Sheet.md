@@ -35,3 +35,4 @@ source: https://yarnpkg.com/en/docs/migrating-from-npm
 | `npm version major`                       | `yarn version --major`          |
 | `npm version minor`                       | `yarn version --minor`          |
 | `npm version patch`                       | `yarn version --patch`          |
+| `npm config set cache "C:\Users\Firstname~1\AppData\Roaming\npm-cache" --global` |
